@@ -26,7 +26,7 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text="˹ᴄʟᴏɴᴇ ᴍᴜꜱɪᴄ˼", url="https://github.com/NoxxOP/ShrutiMusic/fork"),
+            InlineKeyboardButton(text="˹ᴄʟᴏɴᴇ ᴍᴜꜱɪᴄ˼", url="https://t.me/Sitaramusic_bot"),
             InlineKeyboardButton(text="˹ᴍᴏᴠɪᴇ ʙᴏᴛ˼", url="https://t.me/Nishumoviebot")
         ],
         [
