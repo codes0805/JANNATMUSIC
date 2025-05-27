@@ -74,8 +74,8 @@ sudo apt-get install python3-pip ffmpeg git -y
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/NoxxOP/ShrutiMusicBot
-cd ShrutiMusicBot
+git clone https://github.com/coderx0805/JANNATMUSIC
+cd JANNATMUSIC
 ```
 
 #### Setup Virtual Environment
