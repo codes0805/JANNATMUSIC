@@ -66,12 +66,12 @@ def stream_markup_timer(_, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text=f"{played} {progress_bar} {dur}",
-                url="https://t.me/ShrutixMusicBot?startgroup=true"
+                url="https://t.me/JANNATT_MUSIC_BOT?startgroup=true"
             )
         ],
         [
-            InlineKeyboardButton(text="𝐂ʜᴀᴛʙᴏᴛ", url="https://t.me/ShrutixRobot"),
-            InlineKeyboardButton(text="𝐌ᴀɴᴀɢᴇʀ", url="https://t.me/ShrutixMusicBot"),
+            InlineKeyboardButton(text="˹ᴄʟᴏɴᴇ ᴍᴜꜱɪᴄ˼", url="https://t.me/Sitaramusic_bot"),
+            InlineKeyboardButton(text="˹ᴍᴏᴠɪᴇ ʙᴏᴛ˼", url="https://t.me/Nishumoviebot"),
         ],
     ]
 
