@@ -32,7 +32,7 @@ HEROKU_API_KEY = os.getenv("HEROKU_API_KEY")
 # 🔄 Git & Update Settings
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/coderx0805/JANNATMUSIC")
+UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/codes0805/JANNATMUSIC")
 UPSTREAM_BRANCH = os.getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 
@@ -40,8 +40,8 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 # 🔗 Support Links
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/Matlabi_Duniyah")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/+MG2n8W4ZpuQwN2Q1")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/the_own_relatipnship")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/BotzEmpireSupport")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", None)
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
