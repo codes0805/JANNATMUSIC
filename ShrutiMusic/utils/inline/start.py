@@ -26,8 +26,8 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text="˹ᴄʟᴏɴᴇ ᴍᴜꜱɪᴄ˼", url="https://t.me/Sitaramusic_bot"),
-            InlineKeyboardButton(text="˹ᴍᴏᴠɪᴇ ʙᴏᴛ˼", url="https://t.me/Nishumoviebot")
+            InlineKeyboardButton(text="˹ᴄʟᴏɴᴇ ᴍᴜꜱɪᴄ˼", url="https://t.me/DEVA_MUSICBOT"),
+            InlineKeyboardButton(text="˹ᴍᴏᴠɪᴇ ʙᴏᴛ˼", url="https://t.me/ShiningMovie_Bot")
         ],
         [
             InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHANNEL),
