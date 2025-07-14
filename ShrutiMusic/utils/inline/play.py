@@ -70,8 +70,8 @@ def stream_markup_timer(_, chat_id, played, dur):
             )
         ],
         [
-            InlineKeyboardButton(text="˹ᴄʟᴏɴᴇ ᴍᴜꜱɪᴄ˼", url="https://t.me/Sitaramusic_bot"),
-            InlineKeyboardButton(text="˹ᴍᴏᴠɪᴇ ʙᴏᴛ˼", url="https://t.me/Nishumoviebot"),
+            InlineKeyboardButton(text="˹ᴄʟᴏɴᴇ ᴍᴜꜱɪᴄ˼", url="https://t.me/DEVA_MUSICBOT"),
+            InlineKeyboardButton(text="˹ᴍᴏᴠɪᴇ ʙᴏᴛ˼", url="https://t.me/ShiningMovie_Bot"),
         ],
     ]
 
